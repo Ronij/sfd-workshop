@@ -1,0 +1,5 @@
+def mult(a,b):
+  c=a*b
+  print c
+  
+mult(5,6)
